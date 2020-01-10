@@ -1,5 +1,9 @@
 # Year-end_Review
+
 **근무 회사: (주) 이파피루스**
+
+**부서: RND 팀** 
+
 ## Task
 
 **메인 :** Core Engine 개발 및 유지보수 (C++, C)
